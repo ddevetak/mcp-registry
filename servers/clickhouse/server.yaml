@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/54801242?v=4
 source:
   project: https://github.com/ClickHouse/mcp-clickhouse
-  commit: 21e6cb2b0758150e8fd0627b699fbfd78e31837b
+  commit: 089301975ed9b2c605e157c0b71f6743df6b2c98
 config:
   description: Configure the connection to ClickHouse
   secrets:
